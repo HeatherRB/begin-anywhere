@@ -21,6 +21,3 @@ module Blog
     # config.i18n.default_locale = :de
   end
 end
-
-# set heroku to serve assets
-config.serve_static_assets = true
