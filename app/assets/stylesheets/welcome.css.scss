@@ -1,3 +1,154 @@
 // Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+html { 
+	height: 100% 
+}
+body {
+	height: 100%; 
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #666666;
+	font-family: 'Roboto',arial,sans-serif;
+}
+.wide {
+	width: 100%;
+}
+.linked {
+    cursor: pointer;
+}
+.padded {
+	padding: 20px;
+}
+.middle {
+	position: absolute;
+	top: 50%;
+}
+.white {
+	background-color: #FFF;
+}
+.yellow {
+	background-color: #FC0;
+}
+.grey {
+	background-color: #CCC;
+}
+
+div {
+	text-align: center;
+	margin: auto;
+}
+div.bodyBackgrnd {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	height: 100%;
+}
+div.bodyBar {
+	position: relative;
+	width: 100%;
+}
+div.textWrapper {
+	position: absolute;
+	width: 80%;
+	height: 60%;
+	left: 10%;
+	top: 20%;
+}
+div.center {
+	position: absolute;
+	left: 10%;
+	width: 80%;
+	display: inline-block;
+}
+
+span.padded {
+	padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+span.inspirational_text {
+	text-transform: uppercase;
+	font-size: 40px;
+}
+span.line {
+	position: absolute;
+	height: 4px;
+	width: 7%;
+	top: 50%;
+	margin-top: -2pt;
+	padding: 0;
+	background-color: #666;
+}
+span.line.left {
+	left: 0%;
+}
+span.line.right {
+	left: 93%;
+}
+
+#logo {
+	width: 203px;
+	height: 132px;
+}
+
+#navPlaceholder {
+	position: static;
+	height: 75px;
+}
+#navWrapper {
+	position: relative;
+	height: 75px;
+	z-index: 99;
+}
+#iconWrapper {
+	position: relative;
+	height: 25px;
+}
+#nav {
+	position: relative;
+	width: 100%;
+	height: 75px;
+	z-index: 101;
+}
+#nav ul {
+	padding: 15px 20px 15px 20px;
+	margin: 0;
+}
+#nav li {
+	display: inline;
+	padding: 15px 20px 15px 20px;
+	margin: 0;
+	color: #666;
+	list-style-type: none;
+    cursor: pointer;
+	text-transform: uppercase;
+}
+#nav li a {
+	color: #666;
+	text-decoration: none;
+}
+#nav li a:hover {
+	text-decoration: underline;
+}
+
+#iconBackgrnd {
+	position: absolute;
+	width: 70px; 
+	height: 50px;
+	left: 50%; 
+	margin-left: -35px;
+	bottom: -25px;
+}
+#icon {
+	position: absolute;
+	height: 32px;
+	width: 32px;
+	left: 50%;
+	margin-left: -16px;
+	bottom: -9px;
+}

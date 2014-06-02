@@ -14,22 +14,17 @@
 		</div>
 	</div>
 
-	<div class="bodyBackgrnd" style="height: 100%; background-image: url(<%= image_url("background.jpg") %>)">
-		<%= form_for :subscriber, url: subscribers_path do |f| %>
-
-		<p>
- 			<%= f.label :name %><br>
-			<%= f.text_field :name %>
-		</p>
-
-		<p>
-			<%= f.label :email %><br>
- 			<%= f.text_area :email %>
-		</p>
-
-		<p>
-			<%= f.submit %>
-		</p>
-
+	<div class="white wide">
+	<table>
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+		</tr>
+		<% @subscribers.each do |subscriber| %>
+			<tr>
+				<td><%= subscriber.name %></td>
+				<td><%= subscriber.email %></td>
+			</tr>
 		<% end %>
+	</table>
 	</div>

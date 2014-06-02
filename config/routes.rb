@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get '/admin', to: 'admin#index'
+
+  resources :subscribers
+
   resources :articles
 
   get 'welcome/index'
