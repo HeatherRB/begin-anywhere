@@ -22,4 +22,5 @@ module Blog
   end
 end
 
-config.assets.initialize_on_precompile = false
+# set heroku to serve assets
+config.serve_static_assets = true
