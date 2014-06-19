@@ -1,27 +1,27 @@
 
-	<div id="header" class="white wide"><%= image_tag("begin.png", id: "logo", alt: "BeginAnywhere") %></div>
+<div class="bodyBackgrnd" style="background-image: url(<%= image_url("background2.jpg") %>)">
+	<%= image_tag("begin_anywhere.png", :id => "big_logo", :style => "height: 250px; width: 546px") %><br>
+	<%= image_tag("learnmore.png", :id => "learnMore", :onclick => "scrollTo('#YellowBar')", :style => "width: 125px; height: 53px") %>
+	<div id="earlyAccess">For early access, <span class="yellow linked" onclick="scrollTo('#subscribe')">begin right here</span>.</div>
+</div>
+
+<div class="bodyBackgrnd white">
+	<div id="YellowBar" class="bodyBar yellow" style="height: 60px; text-align: left">
+		<%= image_tag("b_white.png", :style => "height: 80px; position: absolute; left: 50px; top: 20px") %>
+	</div>
 	
-	<div id="navPlaceholder" class="white wide">
-		<div id="nav" class="white">
-			<ul>
-				<li>plain text</li>
-				<li>what we do</li>
-				<li>talk to us</li>
-				<li>blog</li>
-			</ul>
-			<%= image_tag("logo_backdrop.png", id: "iconBackgrnd", alt: "") %>
-			<%= image_tag("b.png", id: "icon", alt: "") %>
-		</div>
-	</div>
-
-	<div class="bodyBackgrnd" style="height: 100%; background-image: url(<%= image_url("background.jpg") %>)">
-		<%= form_for :subscriber, url: subscribers_path do |f| %>
-
+	<span id="text1" class="inspirational_text"> When did you last learn something new?</span>
+	<%= image_tag("yellow_chevron.png", :id => "yellowChevron", :class => "linked", :style => "height: 14px; width: 39px", :onclick => "scrollTo('#subscribe')") %>
+</div>
+	
+<div id="subscribe" class="bodyBackgrnd" style="background-image: url(<%= image_url("ships.jpg") %>)">
+	<div id="formContainer">
+	<%= form_for :subscriber, url: subscribers_path do |f| %>
 		<p>
-			<%= f.text_area :name %>
- 			<%= f.text_area :email %>
-			<%= f.submit %>
+		<%= f.text_area :name %>
+ 		<%= f.text_area :email %>
+		<%= f.submit %>
 		</p>
-
-		<% end %>
+	<% end %>
 	</div>
+</div>

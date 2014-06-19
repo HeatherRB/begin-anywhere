@@ -1,0 +1,220 @@
+/* line 5, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+html {
+  height: 100%;
+}
+
+/* line 8, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #666666;
+  font-family: 'Roboto',arial,sans-serif;
+}
+
+/* line 16, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.wide {
+  width: 100%;
+}
+
+/* line 19, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.linked {
+  cursor: pointer;
+}
+
+/* line 22, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.padded {
+  padding: 20px;
+}
+
+/* line 25, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.middle {
+  position: absolute;
+  top: 50%;
+}
+
+/* line 29, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.white {
+  background-color: #FFF;
+}
+
+/* line 32, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.yellow {
+  background-color: #FC0;
+}
+
+/* line 35, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+.grey {
+  background-color: #CCC;
+}
+
+/* line 39, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+div {
+  text-align: center;
+  margin: auto;
+}
+
+/* line 43, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+div.bodyBackgrnd {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  height: 100%;
+}
+
+/* line 50, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+div.bodyBar {
+  position: relative;
+  width: 100%;
+}
+
+/* line 54, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+div.textWrapper {
+  position: absolute;
+  width: 80%;
+  height: 60%;
+  left: 10%;
+  top: 20%;
+}
+
+/* line 61, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+div.center {
+  position: absolute;
+  left: 10%;
+  width: 80%;
+  display: inline-block;
+}
+
+/* line 68, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+span.padded {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+/* line 74, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+span.inspirational_text {
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+/* line 78, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+span.line {
+  position: absolute;
+  height: 4px;
+  width: 7%;
+  top: 50%;
+  margin-top: -2pt;
+  padding: 0;
+  background-color: #666;
+}
+
+/* line 87, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+span.line.left {
+  left: 0%;
+}
+
+/* line 90, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+span.line.right {
+  left: 93%;
+}
+
+/* line 94, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#logo {
+  width: 203px;
+  height: 132px;
+}
+
+/* line 99, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#navPlaceholder {
+  position: static;
+  height: 75px;
+}
+
+/* line 103, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#navWrapper {
+  position: relative;
+  height: 75px;
+  z-index: 99;
+}
+
+/* line 108, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#iconWrapper {
+  position: relative;
+  height: 25px;
+}
+
+/* line 112, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#nav {
+  position: relative;
+  width: 100%;
+  height: 75px;
+  z-index: 101;
+}
+
+/* line 118, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#nav ul {
+  padding: 15px 20px 15px 20px;
+  margin: 0;
+}
+
+/* line 122, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#nav li {
+  display: inline;
+  padding: 15px 20px 15px 20px;
+  margin: 0;
+  color: #666;
+  list-style-type: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* line 131, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#nav li a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* line 135, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#nav li a:hover {
+  text-decoration: underline;
+}
+
+/* line 139, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#iconBackgrnd {
+  position: absolute;
+  width: 70px;
+  height: 50px;
+  left: 50%;
+  margin-left: -35px;
+  bottom: -25px;
+}
+
+/* line 147, /Users/heatherreeve-black/Documents/GitHub/Rails/BeginAnywhere/app/assets/stylesheets/welcome.css.scss */
+#icon {
+  position: absolute;
+  height: 32px;
+  width: 32px;
+  left: 50%;
+  margin-left: -16px;
+  bottom: -9px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+

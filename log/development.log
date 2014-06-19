@@ -7602,3 +7602,2745 @@ Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 10:56:41 +0100
 
 
 Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 10:56:41 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (45.5ms)
+Completed 200 OK in 165ms (Views: 164.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 12:03:16 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 15:27:21 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (44.3ms)
+Completed 200 OK in 123ms (Views: 122.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 15:27:22 +0100
+
+
+Started GET "/subscribers" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+Processing by SubscribersController#index as HTML
+  [1m[36mSubscriber Load (38.9ms)[0m  [1mSELECT "subscribers".* FROM "subscribers"[0m
+  Rendered subscribers/index.html.erb within layouts/application (50.0ms)
+Completed 200 OK in 101ms (Views: 24.5ms | ActiveRecord: 39.3ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 15:27:27 +0100
+
+
+Started GET "/subscribers/new" for 127.0.0.1 at 2014-06-19 15:27:35 +0100
+
+AbstractController::ActionNotFound (The action 'new' could not be found for SubscribersController):
+  actionpack (4.1.1) lib/abstract_controller/base.rb:131:in `process'
+  actionview (4.1.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:676:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.1) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.6ms)
+
+
+Started GET "/subscribers/new" for 127.0.0.1 at 2014-06-19 15:27:40 +0100
+
+AbstractController::ActionNotFound (The action 'new' could not be found for SubscribersController):
+  actionpack (4.1.1) lib/abstract_controller/base.rb:131:in `process'
+  actionview (4.1.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:676:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.1) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.6ms)
+
+
+Started GET "/admin" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+Processing by AdminController#index as HTML
+  Rendered admin/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 15:27:45 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 13ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 15:27:57 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 77ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:42 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/graphics/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/begin_anywhere.png"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (9.5ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (15.0ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (80.3ms)
+
+
+Started GET "/graphics/learnmore.png" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/learnmore.png"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.3ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (41.3ms)
+
+
+Started GET "/graphics/background2.jpg" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/background2.jpg"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.2ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (49.6ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 15:52:43 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/graphics/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/begin_anywhere.png"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.1ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (52.2ms)
+
+
+Started GET "/graphics/learnmore.png" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/learnmore.png"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.5ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (35.1ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 15:53:26 +0100
+
+
+Started GET "/graphics/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 15:53:27 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/begin_anywhere.png"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.7ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.0ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (62.3ms)
+
+
+Started GET "/graphics/learnmore.png" for 127.0.0.1 at 2014-06-19 15:53:27 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/learnmore.png"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.2ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (39.6ms)
+
+
+Started GET "/graphics/background2.jpg" for 127.0.0.1 at 2014-06-19 15:53:27 +0100
+
+ActionController::RoutingError (No route matches [GET] "/graphics/background2.jpg"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.2ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (39.1ms)
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 15:53:27 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:01:24 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 93ms (Views: 92.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 16:04:49 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 57ms (Views: 56.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/nav.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 16:06:05 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 29ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:13:19 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 13ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:14:35 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:17:37 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( scroller.js )` to `config/initializers/assets.rb` and restart your server):
+    4:   <title>Begin Anywhere</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= javascript_include_tag 'scroller' %>
+    8:   <%= csrf_meta_tags %>
+    9: </head>
+   10: <body>
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2486573109551477088_70346262681960'
+
+
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/heatherreeve-black/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (17.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:20:51 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (32.3ms)
+Completed 200 OK in 111ms (Views: 110.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:20:51 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:20:51 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:20:51 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:51 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:51 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:20:52 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 128ms (Views: 127.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:29:16 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:32:30 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 67ms (Views: 66.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:32:31 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:01 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:02 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:40:42 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:41:01 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:41:07 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 20ms (Views: 19.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:07 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:07 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:07 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:07 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:41:08 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 90ms (Views: 89.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:45:52 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:45:53 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:46:02 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:46:03 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:47:41 +0100
+
+
+Started POST "/subscribers" for 127.0.0.1 at 2014-06-19 16:48:31 +0100
+Processing by SubscribersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oMGxBV54M40RRIv9IFsjho9yUBcMpkN29EkPO9qQjUs=", "subscriber"=>{"name"=>"Heather", "email"=>"test again!"}, "commit"=>"Save Subscriber"}
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (15.1ms)[0m  INSERT INTO "subscribers" ("created_at", "email", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", "2014-06-19 15:48:32.028356"], ["email", "test again!"], ["name", "Heather"], ["updated_at", "2014-06-19 15:48:32.028356"]]
+  [1m[36m (14.9ms)[0m  [1mcommit transaction[0m
+  Rendered subscribers/create.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 114ms (Views: 12.7ms | ActiveRecord: 32.5ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-06-19 16:48:32 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:48:44 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 54ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:11 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:50:12 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:50:14 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:14 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:14 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:50:15 +0100
+
+
+Started GET "/subscribers" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+Processing by SubscribersController#index as HTML
+  [1m[35mSubscriber Load (0.3ms)[0m  SELECT "subscribers".* FROM "subscribers"
+  Rendered subscribers/index.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 23ms (Views: 21.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/begin.png" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/logo_backdrop.png" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/b.png" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:51:00 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:54:21 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:54:22 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:54:24 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:54:25 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:56:02 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:02 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:02 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:02 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:02 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:02 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 16:56:03 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 71ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:56:42 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 16:57:42 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 13ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 16:57:42 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 16:57:43 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 17:00:44 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 17:00:45 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 72ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/yellow_chevron.png" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 17:02:32 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/yellow_chevron.png" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 17:02:45 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/yellow_chevron.png" for 127.0.0.1 at 2014-06-19 17:03:55 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 17:03:56 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 17:03:56 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 26ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/yellow_chevron.png" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 17:10:53 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 17:10:54 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 17:10:54 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/subscribers.css?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/align.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/articles.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/scroller.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/jquery-ui-1.10.4.custom.min.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/subscribers.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/jquery-1.10.2.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/learnmore.png" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/begin_anywhere.png" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/yellow_chevron.png" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/b_white.png" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/background2.jpg" for 127.0.0.1 at 2014-06-19 17:11:32 +0100
+
+
+Started GET "/assets/ships.jpg" for 127.0.0.1 at 2014-06-19 17:11:32 +0100

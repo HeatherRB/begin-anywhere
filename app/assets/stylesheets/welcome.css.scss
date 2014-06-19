@@ -42,10 +42,10 @@ div {
 }
 div.bodyBackgrnd {
 	position: relative;
+	height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50%;
-	height: 100%;
 }
 div.bodyBar {
 	position: relative;
@@ -66,10 +66,7 @@ div.center {
 }
 
 span.padded {
-	padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 20px;
-    padding-left: 20px;
+	padding-top: 15px 20px;
 }
 span.inspirational_text {
 	text-transform: uppercase;
@@ -90,10 +87,53 @@ span.line.left {
 span.line.right {
 	left: 93%;
 }
+input {
+	min-width: 120px;
+	height: 41px;
+	margin: 0;
+	padding: 8px 22px;
+	border: none;
+	background-color: #82CD1E;
+	color: #FFF;
+	cursor: pointer;
+	font-family: arial, sans serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 100%;
+}
+textarea {
+	min-width: 120px;
+	height: 41px;
+	margin: 0;
+	padding: 10px;
+	color: #666;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	box-shadow: none;
+	font-size: 18px;
+}
+
+#big_logo {
+	height: 250px;
+	position: absolute;
+	top: 50%;
+	margin-top: -125px;
+}
 
 #logo {
 	width: 203px;
 	height: 132px;
+}
+
+#learnMore {
+	width: 125px;
+	cursor: pointer;
+}
+
+#earlyAccess {
+	color: #FFF;
+	cursor: pointer;
+	font-size: 20px;
 }
 
 #navPlaceholder {
@@ -151,4 +191,10 @@ span.line.right {
 	left: 50%;
 	margin-left: -16px;
 	bottom: -9px;
+}
+#formContainer {
+	width: 75%;
+	background-color: rgba(0,0,0,0.2);
+	padding: 15px;
+	border-radius: 5px;
 }
